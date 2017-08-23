@@ -1,0 +1,22 @@
+Current bingo changes (3.0->3.1)
+
+Moved some goals around
+Took out a duplicate "100+ gems in Skelos Badlands, 2+ orbs in Aquaria Towers & 300+ gems in Metropolis"
+Changed "Defeat all enemies in Metropolis" to "Defeat all enemies in Mystic Marsh"
+Reduced the number of orbs needed in "Buy Swim with 10+ orbs" to 8
+Reduced the number of return home portals needed in "Enter 10 Return Home portals" to 8
+Changed "Outdoor lamps & Robot Scarecrows orbs" to "Glimmer Lizards & Floating Mines orbs"
+Changed "Popcorn 1 & Ox orbs" to "Ox & Bombo"
+Changed "Hockey 1 & UFOs 1 orbs" to "UFOs 1 & Cowlecks 2 orbs"
+Changed "Mantas 2 & UFOs 2 orbs" to "UFOs 2 & Hockey 2 orbs"
+Changed "Floating Mines & George orbs" to "Robot Scarecrows & George orbs"
+Changed "Party Crashers & Cowlecks 2 orbs" to "Mantas 2 & Party Crashers orbs"
+Changed "Glimmer Lizards & Bombo orbs" to "Outdoor Lamps & Alchemist orbs"
+Changed "Alchemist & Hockey 2 orbs" to "Popcorn 1 & Hockey 1 orbs"
+
+Changed "All gems in Crystal Glacier" to "All gems in Crystal Glacier & Hurricos Thieves orb"
+Changed "All gems in Glimmer" to "All gems in Glimmer & Hippos orb"
+Added "Activate all powerups in Glimmer, Idol Springs & Skelos Badlands"
+Changed "Hippos and Hurricos Thieves orbs" to "Activate 5 different powerup types"
+Added "Unlock Cloud Temples"
+Added "1200+ Autumn Plains gems"
