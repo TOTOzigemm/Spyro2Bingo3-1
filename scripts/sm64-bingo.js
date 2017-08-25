@@ -15,7 +15,7 @@ bingoList[2] = [
   { name: "All gems in Crystal Glacier & Hurricos Thieves orb", types: [] }
 ];
 bingoList[3] = [
-  { name: "All gems in Mystic Marsh & all orbs in Glimmer", types: [] },
+  { name: "All orbs in Glimmer & all gems in Mystic Marsh", types: [] },
   { name: "All boss skillpoints", types: [] },
   { name: "Seaweed skillpoint", types: [] }
 ];
@@ -35,8 +35,8 @@ bingoList[5] = [
 bingoList[6] = [
   { name: "Indoor Lamps & Tractor Path orbs", types: [] },
   { name: "Glimmer Lizards & Floating Mines orbs", types: [] },
-  { name: "Activate all '18' powerups", types: [] },
-  { name: "Activate all '15' powerups", types: [] },
+  { name: "Use all '18' powerups", types: [] },
+  { name: "Use all '15' powerups", types: [] },
   { name: "100% Magma Cone", types: [] }
 ];
 bingoList[7] = [
@@ -64,7 +64,7 @@ bingoList[10] = [
 bingoList[11] = [
   { name: "650 combined gems in Idol Springs & Scorch", types: [] },
   { name: "Puzzle & Juliet 2 orbs", types: [] },
-  { name: "Activate 5 different powerup types", types: [] },
+  { name: "Use 5 different powerup types", types: [] },
   { name: "Monkeys & Faun orbs", types: [] },
   { name: "250 gems in both Idol Springs & Mystic Marsh", types: [] }
 ];
@@ -75,7 +75,7 @@ bingoList[12] = [
   { name: "600 combined gems in Skelos Badlands & Fracture Hills", types: [] }
 ];
 bingoList[13] = [
-  { name: "Activate all '14' powerups", types: [] },
+  { name: "Use all '14' powerups", types: [] },
   { name: "Seahorses & Hula girls orbs", types: [] },
   { name: "100% Hurricos", types: [] }
 ];
@@ -83,7 +83,7 @@ bingoList[13] = [
 bingoList[14] = [
   { name: "All orbs in Fracture Hills", types: [] },
   { name: "All gems in Idol Springs", types: [] },
-  { name: "Activate all powerups in Glimmer, Idol Springs & Skelos Badlands", types: [] },
+  { name: "Use all powerups in Glimmer, Idol Springs & Skelos Badlands", types: [] },
   { name: "100% Idol Springs", types: [] }
 ];
 bingoList[15] = [
@@ -98,12 +98,12 @@ bingoList[16] = [
   { name: "Factory Glide 1 & Cowlecks 1 orbs", types: [] },
   { name: "Factory Glide 2 & Juliet 1 orbs", types: [] },
   { name: "Talismans from Hurricos, Scorch & Magma Cone", types: [] },
-  { name: "Activate all '2' powerups", types: [] },
+  { name: "Use all '2' powerups", types: [] },
 ];
 bingoList[17] = [
   { name: "Dinos 2 & Basil orbs", types: [] },
   { name: "Turtle Soup 2 & Pencil", types: [] },
-  { name: "Activate all '20' powerups", types: [] },
+  { name: "Use all '20' powerups", types: [] },
   { name: "100% Colossus", types: [] },
   { name: "Mantas 2 & Party Crashers orbs", types: [] }
 ];
@@ -136,7 +136,7 @@ bingoList[22] = [
   { name: "UFOs 1 & Cowlecks 2 orbs", types: [] },
   { name: "Bells orb & #BoneDance", types: [] },
   { name: "100% Skelos Badlands", types: [] },
-  { name: "Activate all powerups in Colossus, Cloud Temples & Metropolis", types: [] }
+  { name: "Use all powerups in Colossus, Cloud Temples & Metropolis", types: [] }
 ];
 bingoList[23] = [
   { name: "275 gems in both Breeze Harbor & Metropolis", types: [] },
